@@ -25,4 +25,5 @@ The need for cost-effective, powerful, and easy-to-use data analytics tools is e
 ## About Me
 
 ![](https://avatars.githubusercontent.com/u/127389112?v=4)
+
  Hey, I am Viktor. Ukraine-born Data Engineer. Python, Pandas, Creativity, Life. Always Exploring.
