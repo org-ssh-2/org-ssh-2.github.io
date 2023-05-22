@@ -4,7 +4,7 @@ When it comes to presenting data in a clear and effective way, charts and graphs
 
 ## What is a line chart maker? 
 
-A line chart maker is a tool that allows you to input data and generate a line chart to represent that data. These tools are typically online and accessible via a web browser, and can range from simple and free to advanced and paid. 
+A [line chart maker](https://chart-makers-jekyll.onrender.com/2023/05/22/line-chart-maker) is a tool that allows you to input data and generate a line chart to represent that data. These tools are typically online and accessible via a web browser, and can range from simple and free to advanced and paid. 
 
 ## Benefits of using a line chart maker 
 
