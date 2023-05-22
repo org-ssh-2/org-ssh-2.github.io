@@ -34,7 +34,7 @@ Infogram also offers several sharing options, including embedding your chart on 
 
 ## Conclusion
 
-Creating histograms can be a time-consuming process, especially if you're not familiar with creating charts in Excel or other data visualization tools. Fortunately, several online chart makers can help you create professional-looking histograms easily. Online chart makers like Google Sheets, ChartGo, and Infogram offer several customization options and sharing features to help you present your data effectively. By using these tools, you can save time and create beautiful histograms that help you analyze data better.
+Creating histograms can be a time-consuming process, especially if you're not familiar with creating charts in Excel or other data visualization tools. Fortunately, several online [histogram makers](https://chart-makers-jekyll.onrender.com/2023/05/22/histogram-maker) can help you create professional-looking histograms easily. Online chart makers like Google Sheets, ChartGo, and Infogram offer several customization options and sharing features to help you present your data effectively. By using these tools, you can save time and create beautiful histograms that help you analyze data better.
 
 ---
 
