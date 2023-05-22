@@ -18,7 +18,7 @@ Finally, scatter plot makers are usually free or low cost, which means that user
 
 ## How to Create a Scatter Plot with a Scatter Plot Maker
 
-To create a scatter plot using a scatter plot maker, follow these simple steps:
+To create a scatter plot using a [scatter plot maker](https://chart-makers-jekyll.onrender.com/2023/05/22/scatter-plot-maker), follow these simple steps:
 
 1. Choose the type of scatter plot you want to create. Some scatter plot makers offer different options, such as bubble charts or 3D scatter plots.
 
