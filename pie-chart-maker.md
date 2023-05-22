@@ -23,7 +23,7 @@ It's worth noting that different pie chart makers have varying features and func
 
 ## Benefits of Using a Pie Chart Maker
 
-One of the most significant benefits of using a pie chart maker is that it saves you time and effort. Instead of manually creating a chart from scratch, you can input your data into the pie chart maker and let the tool do the rest.
+One of the most significant benefits of using a pie chart maker is that it saves you time and effort. Instead of manually creating a chart from scratch, you can input your data into the [pie chart maker](https://chart-makers-jekyll.onrender.com/2023/05/22/pie-chart-maker) and let the tool do the rest.
 
 Pie chart makers are also incredibly versatile. You can use them for a wide range of purposes, from creating simple charts for school projects to creating complex visualizations for business presentations. Additionally, online chart makers are accessible from anywhere with an internet connection, making them a convenient option for users on-the-go.
 
