@@ -24,7 +24,7 @@ When you have a lot of data, it can be easy to miss important trends or insights
 
 ### Customization
 
-Heatmap makers offer a range of customization options, which you can use to create a heatmap that best fits your needs. This includes selecting color schemes, adjusting opacity, and modifying the label format.
+[Heatmap makers](https://chart-makers-jekyll.onrender.com/2023/05/22/heatmap-maker) offer a range of customization options, which you can use to create a heatmap that best fits your needs. This includes selecting color schemes, adjusting opacity, and modifying the label format.
 
 ### Ease of sharing
 
