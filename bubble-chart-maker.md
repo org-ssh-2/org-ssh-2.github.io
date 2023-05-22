@@ -6,7 +6,7 @@ There are several online chart makers available that allow people to create visu
 
 A bubble chart is a type of chart that displays data in bubbles with varying sizes and colors. The larger the bubble, the higher the value of the data point it represents. Bubble charts are useful for visualizing three variables, with the two axes representing two of the variables and the bubble size representing the third variable.
 
-A bubble chart maker is an online tool that allows users to create customizable bubble charts without any coding required. Users can input data points, adjust bubble sizes and colors, and make other visual changes to create the perfect chart.
+A [bubble chart maker](https://chart-makers-jekyll.onrender.com/2023/05/22/bubble-chart-maker) is an online tool that allows users to create customizable bubble charts without any coding required. Users can input data points, adjust bubble sizes and colors, and make other visual changes to create the perfect chart.
 
 ## Benefits of a Bubble Chart Maker
 
