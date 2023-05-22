@@ -2,7 +2,7 @@
 
 When it comes to creating charts and graphs, there are a variety of tools available to us. One of the most popular choices for creating charts is through online chart makers. These tools offer a variety of options for creating different charts, including line graphs, bar charts, pie charts, and box plots.
 
-Box plots, also known as box and whisker plots, are useful charts for displaying statistical data. They can show the distribution, spread, and central tendency of a dataset. A box plot maker can help create these charts quickly and easily.
+Box plots, also known as box and whisker plots, are useful charts for displaying statistical data. They can show the distribution, spread, and central tendency of a dataset. A [box plot maker](https://chart-makers-jekyll.onrender.com/2023/05/22/box-plot-maker) can help create these charts quickly and easily.
 
 ## What is a Box Plot?
 
