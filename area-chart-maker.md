@@ -1,6 +1,6 @@
 # Area Chart Makers
 
-In the world of data visualization, charts are an invaluable tool to convey information in a visual way. With the rise of online chart makers, creating charts has become easier and more accessible than ever before. Among the various types of charts available, area charts are particularly useful when it comes to showing trends over time or comparing multiple data sets. In this article, we will explore the world of online area chart makers and how they can help you create stunning visualizations.
+In the world of data visualization, charts are an invaluable tool to convey information in a visual way. With the rise of online chart makers, creating charts has become easier and more accessible than ever before. Among the various types of charts available, area charts are particularly useful when it comes to showing trends over time or comparing multiple data sets. In this article, we will explore the world of online [area chart makers](https://chart-makers-jekyll.onrender.com/2023/05/22/area-chart-maker) and how they can help you create stunning visualizations.
 
 ## What is an Area Chart?
 
