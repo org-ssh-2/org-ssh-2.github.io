@@ -1,6 +1,6 @@
 # Data Notes by Viktor Zinchenko
 
-As a data analyst and developer, I understand the importance of robust [Data Analytics](https://kanaries.net) and [Data Science](https://kanaries.net) tools. While Tableau is a popular choice, many businesses seek [tableau alternative open source](https://docs.kanaries.net/articles/tableau-open-source-alternatives) options to leverage the power of AI-driven analytics like [ChatGPT for Data Analysis](https://kanaries.net) and [Data Visualization](https://kanaries.net).
+As a data analyst and developer, I understand the importance of robust Data Analytics and Data Science tools. While Tableau is a popular choice, many businesses seek tableau alternative open source options to leverage the power of AI-driven analytics like ChatGPT for Data Analysis and Data Visualization.
 
 ## My Other Review on Online Chart Makers
 
