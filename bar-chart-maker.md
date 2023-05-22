@@ -8,7 +8,7 @@ Bar charts are one of the most commonly used charts when it comes to data visual
 
 ## The Benefits of Using Online Bar Chart Makers
 
-Online bar chart makers offer several benefits over traditional methods of creating charts in Excel or PowerPoint. One of the main benefits is the convenience they offer. With online bar chart makers, you can create beautiful charts in a matter of seconds. All you need to do is upload your data and choose from a range of templates and customization options to create a chart that suits your needs.
+Online [bar chart makers](https://chart-makers-jekyll.onrender.com/2023/05/22/bar-chart-maker) offer several benefits over traditional methods of creating charts in Excel or PowerPoint. One of the main benefits is the convenience they offer. With online bar chart makers, you can create beautiful charts in a matter of seconds. All you need to do is upload your data and choose from a range of templates and customization options to create a chart that suits your needs.
 
 Another significant advantage of online [bar chart makers](https://docs.kanaries.net/charts/bar-chart-maker) is the level of flexibility they offer. With these tools, you can customize your chart to suit your preferences, such as the type of chart you want, the colors you want to use, the font size, and the background color. You can also add more data sets or change the names of existing ones as per your requirements. Unlike traditional chart-making methods, you can make these changes quickly and conveniently, without having to go through several steps.
 
